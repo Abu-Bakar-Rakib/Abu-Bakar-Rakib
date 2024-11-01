@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-bakar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="abu-bakar-rakib" /> </p>
 
 - 🌱 I’m currently learning **Data science.**
+-  💬 Ask me about **ML Algorithms, Python, MySQL.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abu-Bakar-Rakib?tab=repositories](https://github.com/Abu-Bakar-Rakib?tab=repositories)
 
