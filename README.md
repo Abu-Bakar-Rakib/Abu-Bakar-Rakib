@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-bakar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="abu-bakar-rakib" /> </p>
 
-- 🌱 I’m currently learning **Data science.**
+- 🌱 I’m currently learning **Deep Learning.**
 -  💬 Ask me about **ML Algorithms, Python, MySQL.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abu-Bakar-Rakib?tab=repositories](https://github.com/Abu-Bakar-Rakib?tab=repositories)
