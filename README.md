@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif)
 <h1 align="center">Hi 👋, I'm Abu Bakar Rakib</h1>
 <h3 align="center">A ML Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s">
+<img align="right" alt="Coding" width="400" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwj__c_9TZJCIyiWUeT0F1H4ZTPJ51d4x9Wg&s](https://cdnl.iconscout.com/lottie/premium/preview-watermark/machine-learning-animation-gif-download-6631334.mp4)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-bakar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="abu-bakar-rakib" /> </p>
 
 - 🌱 I’m currently learning **LLM.**
