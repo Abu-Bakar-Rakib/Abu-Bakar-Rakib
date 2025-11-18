@@ -28,7 +28,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="52" style="object-fit:contain; vertical-align:middle;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" style="object-fit:contain; vertical-align:middle;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="37" style="object-fit:contain; vertical-align:middle;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="37" style="object-fit:contain; vertical-align:middle;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" style="object-fit:contain; vertical-align:middle;">
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-bakar-rakib&show_icons=true&locale=en&layout=compact" alt="abu-bakar-rakib" /></p>
