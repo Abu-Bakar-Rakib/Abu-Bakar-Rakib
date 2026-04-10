@@ -13,7 +13,20 @@
 - 📫 How to reach me **rakibcdp@gmail.com**
 
 - ⚡ Interesting Fact: **Adaptability Expert, Inquisitive Mind, Knowledge Seeker.**
+<h3 align="left">📄 Publications:</h3>
+<p align="left">
+  <a href="https://ieeexplore.ieee.org/abstract/document/11429242" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE-Sentiment%20Analysis%20of%20YouTube%20Comments%20on%20Russia–Ukraine%20Conflict-blue?logo=ieee&style=flat" alt="IEEE Paper" />
+  </a>
+</p>
 
+> 🇺🇦🇷🇺 **Sentiment Analysis of YouTube Comments on the Russia–Ukraine Conflict: A Comparative Study of Machine Learning and Transformer-Based Approaches**
+> 
+> Abu Bakar Rakib, Md. Mahbub Alum, Obaidul Haque, Snaholata Mondal
+> 
+> *IEEE International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE 2026), Rajshahi, Bangladesh*
+> 
+> 🔗 [View on IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11429242)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abu bakar rakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu bakar rakib" height="30" width="40" /></a>
