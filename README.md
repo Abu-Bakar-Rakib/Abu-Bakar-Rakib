@@ -19,7 +19,7 @@
 | Title | Venue | State |
 |-------|-------|------|
 |[Sentiment Analysis of YouTube Comments on the Russia–Ukraine Conflict: A Comparative Study of ML and Transformer-Based Approaches](https://ieeexplore.ieee.org/abstract/document/11429242) | IEEE ICECTE | Accepted |
-| Transformer-Based Sentence Reconstruction from Jumbled Words: A Comparative Evaluation Against Sequence Models | QPAIN | Accepted |
+| [Transformer-Based Sentence Reconstruction from Jumbled Words: A Comparative Evaluation Against Sequence Models](https://ieeexplore.ieee.org/abstract/document/11545863) | QPAIN | Accepted |
 | XSG-Ensemble: A Weighted Voting Ensemble Machine Learning Model for Enhanced Chronic Kidney Disease Prediction | AI-Scities | Accepted |
 | Aspect-Based Sentiment Analysis of Bangladeshi IT Service Reviews Using Transformer Architectures and Post-Hoc Interpretability | QPAIN | Accepted |
 | An Explainable Two-Stage Deep Learning Framework for Bone Region Classification and Fracture Detection with Localization on the FracAtlas Dataset | ICEFront | Accepted |
