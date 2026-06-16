@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **LLM.**
 -  💬 Ask me about **ML Algorithms, Python, MySQL.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abu-Bakar-Rakib?tab=repositories](https://github.com/Abu-Bakar-Rakib?tab=repositories)
+- 👨‍💻 [All of my projects are available at](https://github.com/Abu-Bakar-Rakib?tab=repositories)
 
 - 📫 How to reach me **rakibcdp@gmail.com**
 
