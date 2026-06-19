@@ -26,9 +26,12 @@
 ---
 ## 💬 Let's Connect
 
-I'm always interested in discussing **ML/DL projects**, **Python development**, **LLM applications**, and **Database optimization**. Feel free to reach out!
+I'm always interested in discussing **ML/DL projects**, ** Research collaboration**, **Python development**, **LLM applications**, and **Database optimization**. Feel free to reach out!
 
 <p align="center">
+  <a href="https://scholar.google.com/citations?hl=en&user=wB_T6PMAAAAJ" target="blank">
+    <img src="https://shields.io" alt="Google Scholar" />
+  </a>
   <a href="https://linkedin.com/in/abu-bakar-rakib" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
