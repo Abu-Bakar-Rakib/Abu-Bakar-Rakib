@@ -27,7 +27,7 @@
 ## 💬 Let's Connect
 I'm always interested in discussing **ML/DL projects**, **Research collaboration**, **Python development**, **LLM applications**, and **Database optimization**. Feel free to reach out!
 <p align="center">
-  <a href="https://linkedin.com/in/abu-bakar-rakib" target="blank">
+  <a href="[https://linkedin.com/in/abu-bakar-rakib](https://www.linkedin.com/in/abu-bakar-rakib-9182b9290/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://fb.com/ab.rakib" target="blank">
