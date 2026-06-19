@@ -25,13 +25,8 @@
 
 ---
 ## 💬 Let's Connect
-
-I'm always interested in discussing **ML/DL projects**, ** Research collaboration**, **Python development**, **LLM applications**, and **Database optimization**. Feel free to reach out!
-
+I'm always interested in discussing **ML/DL projects**, **Research collaboration**, **Python development**, **LLM applications**, and **Database optimization**. Feel free to reach out!
 <p align="center">
-  <a href="https://scholar.google.com/citations?hl=en&user=wB_T6PMAAAAJ" target="blank">
-    <img src="https://shields.io" alt="Google Scholar" />
-  </a>
   <a href="https://linkedin.com/in/abu-bakar-rakib" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -40,6 +35,9 @@ I'm always interested in discussing **ML/DL projects**, ** Research collaboratio
   </a>
   <a href="https://codeforces.com/profile/ab_rakib" target="blank">
     <img src="https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=wB_T6PMAAAAJ" target="blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
   <a href="mailto:rakibcdp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
