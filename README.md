@@ -86,8 +86,6 @@
   <img src="https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
-
-
 ## 💬 Let's Connect
 I'm always interested in discussing **ML/DL projects**, **Research collaboration**, **Python development**, **LLM applications**, and **Database optimization**. Feel free to reach out!
 <p align="center">
@@ -107,8 +105,3 @@ I'm always interested in discussing **ML/DL projects**, **Research collaboration
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat&logo=overleaf&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
