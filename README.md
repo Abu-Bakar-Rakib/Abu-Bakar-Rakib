@@ -1,6 +1,10 @@
 ![MasterHead](https://cdn.rentechdigital.com/common_files/blogs/machine-learning-swipecart-blog-img-01-31-08-2022.gif)
-<h1 align="center">Hi 👋, I'm Abu Bakar Rakib</h1>
-<h3 align="center">AI/ML Engineer from Bangladesh</h3>
+<!-- 𝗧𝘆𝗽𝗶𝗻𝗴 𝗦𝗩𝗚 -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Abu+Bakar+Rakib;AI%2FML+Engineer+from+Bangladesh;Researcher+%7C+Python+Developer+%7C+LLM+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br />
 <img align="right" alt="Coding" width="400"
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBpcnJpYm90M3FuMW1oM2R5NzQ5aG51MzVhYnFxcXd1a3UzNmxwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wFHtUyhY0n1CvQRuH/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abu-bakar-rakib&label=Profile%20views&color=0e75b6&style=flat" alt="abu-bakar-rakib" /> </p>
