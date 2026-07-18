@@ -7,7 +7,7 @@
 <br />
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDBpcnJpYm90M3FuMW1oM2R5NzQ5aG51MzVhYnFxcXd1a3UzNmxwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wFHtUyhY0n1CvQRuH/giphy.gif">
 <!-- 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 𝗩𝗶𝗲𝘄𝘀 𝗮𝗻𝗱 𝗜𝗻𝘁𝗿𝗼 -->
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=abu-bakar-rakib&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
