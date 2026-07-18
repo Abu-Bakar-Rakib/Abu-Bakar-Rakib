@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white" />
   <img src="https://img.shields.io/badge/Codeforces-1F1C3F?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
-
+---
 ## 💬 Let's Connect
 I'm always interested in discussing **ML/DL projects**, **Research collaboration**, **Python development**, **LLM applications**, and **Database optimization**. Feel free to reach out!
 <p align="center">
