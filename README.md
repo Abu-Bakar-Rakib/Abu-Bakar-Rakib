@@ -27,6 +27,7 @@
 | An Explainable Two-Stage Deep Learning Framework for Bone Region Classification and Fracture Detection with Localization on the FracAtlas Dataset | ICEFront | Accepted |
 | Machine Learning Framework for UPDRS Score Prediction and Parkinson's Disease Severity Classification Using Voice Biomarker | ICEFront | Accepted |
 | Attention-Based Multimodal Sleep Stage Classification Using EEG, EOG, and EMG Signals | ICEFront | Accepted |
+| An Interpretable Dual-Lead CNN-Transformer Hybrid Framework for ECG Arrhythmia Classification with Gradient-Based Explainability | SPICSCON | Accepted |
 | XSG-Ensemble: A Weighted Voting Ensemble Machine Learning Model for Enhanced Chronic Kidney Disease Prediction | AI-Scities | Accepted |
 
 ---
