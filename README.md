@@ -15,7 +15,7 @@
 -  💬 Ask me about **ML/DL, Python, LLM, MySQL.**
 - 📫 How to reach me **rakibcdp@gmail.com**
 
-- ⚡ Interesting Fact: **Adaptability Expert, Inquisitive Mind, Knowledge Seeker.**
+- ⚡ Interesting Fact: **Adaptability, Inquisitive Mind, Knowledge Seeker.**
 ---
 
 ### 🏆 Research Publications
