@@ -30,9 +30,8 @@
 | Attention-Enhanced EfficientNet-B3 for Automated Tuberculosis Screening Using Chest Radiographs | BECITHCON | Accepted |
 | From Perception to Reconstruction: Type-Aware Semantic Color Priors for Color Vision Deficiency | RAAICON | Accepted |
 | GAD-Net: An Interpretable Deep Learning Framework for Automated Diabetic Retinopathy Screening in Smart Healthcare | RAAICON | Accepted |
-| An Explainable Two-Stage Deep Learning Framework for Bone Region Classification and Fracture Detection with Localization on the FracAtlas Dataset | ICEFront | Accepted|
-| Machine Learning Framework for UPDRS Score Prediction and Parkinson's Disease Severity Classification Using Voice Biomarker | ICEFront | Accepted |
-| Attention-Based Multimodal Sleep Stage Classification Using EEG, EOG, and EMG Signals | ICEFront | Accepted |
+| ViT-Dominant Gated Efficient Hybrid Network for Jute Leaf Disease Classification | ICONEECT | Accepted|
+| Explainable Multimodal Fusion of ECG Signals and Clinical Narratives for Automated Heart Disease Classification | COMPAS | Accepted |
 
 
 ---
