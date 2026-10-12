@@ -32,6 +32,7 @@
 | GAD-Net: An Interpretable Deep Learning Framework for Automated Diabetic Retinopathy Screening in Smart Healthcare | RAAICON | Accepted |
 | ViT-Dominant Gated Efficient Hybrid Network for Jute Leaf Disease Classification | ICONEECT | Accepted|
 | Explainable Multimodal Fusion of ECG Signals and Clinical Narratives for Automated Heart Disease Classification | COMPAS | Accepted |
+| An Explainable Transformer Based Framework for Bangla Public Service Grievance Classification | ICISET | Accepted |
 
 
 ---
